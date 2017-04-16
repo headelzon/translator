@@ -73,6 +73,4 @@ for line in lines:
 cv2.imwrite('lines.jpg', crop_img)
 
 # TODO Still doesn't detect every edge
-# TODO Rotate image to make its sides parallel to axes
-
 # TODO Extract information from rows and columns
